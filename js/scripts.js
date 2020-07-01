@@ -20,4 +20,4 @@ $(document).ready(function () {
     $("#login-button").on("click", function () {
         $("#loginModal").modal("toggle");
     });
-  });
+});
